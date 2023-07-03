@@ -18,13 +18,13 @@ const estilos=StyleSheet.create({
     },
     nome:{
         fontSize:25,
-        color:"#282828", 
-        fontFamily:"quicksand"   
+        color:"#000000", 
+        fontFamily:"Quicksand-Bold" ,  
     },
     avatar:{
         justifyContent: "flex-start",
         alignItems: "center",
         paddingTop:40,
-        backgroundColor:"#ffffff",
+       
     }
 })

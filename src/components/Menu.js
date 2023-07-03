@@ -27,13 +27,16 @@ const estilos=StyleSheet.create({
     },
     tarefa:{
         fontSize:25,
-        
+        fontFamily:"Quicksand-Bold" ,
+        color:"#000000",
+        textAlign:"center",
+        paddingTop:5
 
     },
     botoes:{
         paddingTop:90,               
         alignItems: "center",
-        backgroundColor:"#ffffff"     
+       
     }
 
 }) 

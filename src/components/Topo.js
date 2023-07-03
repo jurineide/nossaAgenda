@@ -15,7 +15,7 @@ export function Topo(){
 
 const estilos=StyleSheet.create({    
     topo:{        
-        backgroundColor:"#ffffff",
+        
         padding:10,
         flexDirection: "row",
         alignItems: "center",
@@ -28,5 +28,6 @@ const estilos=StyleSheet.create({
     },
     texto:{
        fontSize:20,
+       fontFamily:"Quicksand-SemiBold"
     }    
 })
